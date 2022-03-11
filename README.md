@@ -3,7 +3,7 @@
 I am Francesco Marras, an Italian programmer who is currently studying.
 
 ## Skills
-- I am currently working on backend stuff (i.e. Java, Python, C++ and in future also Rust amd Kotlin).
+- I am currently working on backend stuff (i.e. Java, Python, C++ and in future also Rust, Kotlin and C#).
 - I have some good MySQL and HTML (CSS and JS included) competences.
 
 ## Future
