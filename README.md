@@ -3,11 +3,11 @@
 I am Francesco Marras, an Italian programmer who is currently studying.
 
 ## Skills
-- I am currently working on backend stuff (i.e. Java, Python, C++ and in future also Rust, Kotlin and C#).
+- I am currently working on backend stuff (i.e. Java, Kotlin, Python, C++ and in future also Rust and C#).
 - I have some good MySQL and HTML (CSS and JS included) competences.
 
 ## Future
-- I am planning to create a cloud website and a little real time ray casting software.
+- I am planning to create a free file transfering service website and a little real time ray casting software.
 - Considering that I enjoy messing around in Unreal Engine and Blender I'm planning to create a mini indie game.
 
 ## Some stats
