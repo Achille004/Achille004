@@ -17,17 +17,13 @@ On this account I will share my projects, some of which will be reported below a
 
 # ME AS A GITHUB USER
 
-### GitHub stats
-<a href="https://github.com/Achille004">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Achille004&show_icons=true&bg_color=DEG,8A2387,E94057,F27121&title_color=FFF&text_color=FFF&icon_color=FFF"/>
-</a>
-<a href="https://github.com/Achille004">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achille004&layout=compact&bg_color=DEG,8A2387,E94057,F27121&title_color=FFF&text_color=FFF&icon_color=FFF" />
-</a>
+## GitHub stats
+<img src="https://github-readme-stats.vercel.app/api?username=Achille004&show_icons=true&bg_color=DEG,8A2387,E94057,F27121&title_color=FFF&text_color=FFF&icon_color=FFF"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achille004&layout=compact&card_width=445&bg_color=DEG,8A2387,E94057,F27121&title_color=FFF&text_color=FFF&icon_color=FFF"/>
 
-### Useful applications that you may find interesting
+## Useful applications that you may find interesting
 <a href="https://github.com/Achille004/PasswordManager">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Achille004&repo=PasswordManager&bg_color=DEG,8A2387,E94057,F27121&title_color=FFF&text_color=FFF&icon_color=FFF" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Achille004&repo=PasswordManager&bg_color=DEG,8A2387,E94057,F27121&title_color=FFF&text_color=FFF&icon_color=FFF"/>
 </a>
 
 
