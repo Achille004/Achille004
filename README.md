@@ -14,4 +14,4 @@ I am Francesco Marras, an Italian programmer who is currently studying.
 
 [![Achille004's GitHub stats](https://github-readme-stats.vercel.app/api?username=Achille004&show_icons=true&theme=solarized-dark)](https://github.com/Achille004)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Achille004&layout=compact&theme=solarized-dark)](https://github.com/Achille004)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Achille004&layout=complete&theme=solarized-dark)](https://github.com/Achille004)
