@@ -15,7 +15,6 @@ I am Francesco Marras, an Italian programmer who is currently studying.
 <a href="https://github.com/Achille004">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Achille004&show_icons=true&bg_color=DEG,8A2387,E94057,F27121&title_color=FFF&text_color=FFF&icon_color=FFF"/>
 </a>
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <a href="https://github.com/Achille004">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achille004&layout=compact&bg_color=DEG,8A2387,E94057,F27121&title_color=FFF&text_color=FFF&icon_color=FFF" />
 </a>
