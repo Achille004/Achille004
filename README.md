@@ -1,4 +1,4 @@
-# Me as a person
+# Me as a person 👨🏻‍🦱
 
 ## Introduction 📝
 ### Hello Everyone! 👋🏼
@@ -15,7 +15,7 @@ On this account I will share my projects, some of which will be reported below a
 - Considering that I enjoy messing around in Unreal Engine and Blender I'm planning to create a mini indie game.
 
 
-# Me as a GitHub user
+# Me as a GitHub user 🖥️
 
 ## GitHub stats 📈
 <img src="https://github-readme-stats.vercel.app/api?username=Achille004&show_icons=true&bg_color=DEG,8A2387,E94057,F27121&title_color=FFF&text_color=FFF&icon_color=FFF"/>
