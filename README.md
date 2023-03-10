@@ -3,7 +3,7 @@ Hello Everyone!
 I am Francesco Marras, an Italian guy who is currently studying as a programmer.
 
 On this account I will share my projects, some of which will be reported below as I **personally** find useful.  
-You can also find my school projects [here](https://github.com/Achille004-School)
+You can also find my school projects [here](https://github.com/Achille004-School).
 
 ## Skills
 - I am currently working on backend stuff (_i.e. Java, Kotlin, Python, C++ and in future also Rust and C#_).
