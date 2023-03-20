@@ -19,7 +19,7 @@ You can also find my school projects <a href="https://github.com/Achille004-Scho
 
 <h1>My badges</h1>
 
-<a href="https://www.credly.com/badges/7726a818-03c3-4c8f-ad44-c338cbdc05bd/public_url">
+<a href="https://www.credly.com/badges/7726a818-03c3-4c8f-ad44-c338cbdc05bd/public_url" target="_blank">
     <img width="100em" height="100em" alt="Cisco IT Essentials Badge" src="https://images.credly.com/images/04e8034c-81f5-4f7f-ab23-e8b428c31ce9/ITE.png">
 </a>
 
@@ -31,7 +31,7 @@ You can also find my school projects <a href="https://github.com/Achille004-Scho
 
 <h2>Useful applications that you may find interesting</h2>
 
-<a href="https://github.com/Achille004/PasswordManager">
+<a href="https://github.com/Achille004/PasswordManager" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Achille004&repo=PasswordManager&bg_color=DEG,8A2387,E94057,F27121&title_color=FFF&text_color=FFF&icon_color=FFF"/>
 </a>
 
