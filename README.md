@@ -7,15 +7,15 @@ You can also find my school projects <a href="https://github.com/Achille004-Scho
 
 <h2>Skills</h2>
 <ul>
-  <li>I am currently working on backend stuff (<i>i.e. Java, Kotlin, Python, C++ and in future also Rust and C#</i>).</li>
-  <li>I have some good MySQL and HTML (CSS and JS included) competences.</li>
+  <li>I am currently working on backend langauges (<i>mainly Java, but also C, Kotlin and Python</i>).</li>
+  <li>I also have some Databeas and Frontend skills.</li>
 </ul>
 
-<h2>Future</h2>
-<ul>
-  <li>I am creating a free file transfering service website and a little real time ray casting software.</li>
-  <li>Considering that I enjoy messing around in Unreal Engine and Blender I'm planning to create a mini indie game.</li>
-</ul>
+<h2>My projects</h2>
+
+<a href="https://github.com/Achille004/PasswordManager" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Achille004&repo=PasswordManager&bg_color=DEG,8A2387,E94057,F27121&title_color=FFF&text_color=FFF&icon_color=FFF"/>
+</a>
 
 <h1>My badges</h1>
 
@@ -28,11 +28,5 @@ You can also find my school projects <a href="https://github.com/Achille004-Scho
 <img src="https://github-readme-stats.vercel.app/api?username=Achille004&show_icons=true&&custom_title=Github%20Stats&bg_color=DEG,8A2387,E94057,F27121&title_color=FFF&text_color=FFF&icon_color=FFF">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achille004&layout=compact&card_width=445&bg_color=DEG,8A2387,E94057,F27121&title_color=FFF&text_color=FFF&icon_color=FFF">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Achille004&layout=compact&card_width=445&bg_color=DEG,8A2387,E94057,F27121&title_color=FFF&text_color=FFF&icon_color=FFF">
-
-<h2>Useful applications that you may find interesting</h2>
-
-<a href="https://github.com/Achille004/PasswordManager" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Achille004&repo=PasswordManager&bg_color=DEG,8A2387,E94057,F27121&title_color=FFF&text_color=FFF&icon_color=FFF"/>
-</a>
 
 <h1>Thanks for reading ❤️</h1>
