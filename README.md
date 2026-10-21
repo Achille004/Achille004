@@ -1,13 +1,13 @@
 <h1>A little about me</h1>
 
-<p>Hello Everyone! I am Francesco Marras, a Computer Engineer (Bachelor) currently studying Quantum Engineering (Master) at PoliTO.</p>
+<p>Hello Everyone! I am Francesco Marras, a Computer Engineer (Bachelor) from Italy, currently studying Quantum Engineering (Master) at PoliTO.</p>
 
 <p>On this account I will share my projects, some of which will be reported below as I <strong>personally</strong> find useful.<br>
 You can also find my school projects <a href="https://github.com/Achille004-School">here</a>.</p>
 
 <h2>Skills</h2>
 <ul>
-  <li>I mainly have experience in backend languages (<i>mainly Java and Kotlin, but also Python and C</i>).</li>
+  <li>I mainly have experience in Backend languages (<i>advanced level in Java/Kotlin, but also intermediate in Python and C</i>).</li>
   <li>I also have some Database and Frontend skills, though I am not very much into these.</li>
 </ul>
 
